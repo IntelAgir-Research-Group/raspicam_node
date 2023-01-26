@@ -80,4 +80,9 @@ catkin_make
 
 ## ROS2
 
+Install Compressed Image Transport
+```
+ros-foxy-compressed-image-transport
+```
+
 Follow this: https://github.com/christianrauch/raspicam2_node
