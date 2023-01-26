@@ -82,7 +82,7 @@ catkin_make
 
 Install Compressed Image Transport
 ```
-ros-foxy-compressed-image-transport
+$ sudo apt install ros-foxy-compressed-image-transport
 ```
 
 Follow this: https://github.com/christianrauch/raspicam2_node
